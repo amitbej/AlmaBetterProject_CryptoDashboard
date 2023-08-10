@@ -9,13 +9,6 @@ The app uses the **CoinGecko API** to get cryptocurrency data such as live price
 
 ### Go Live: [Cryptocurrency Dashboard](----------------------------------)
 
-### Desktop view:
-<img src="" alt="image" />
-
-### Mobile view:
-<img src=""
-alt="responsive image pic" />
-
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
